@@ -1,6 +1,6 @@
 [
   {
-    "Código de Barras": 000 000 001,
+    "Código": 000 000 001,
     "Descripción": "Estampita Virgen de Guadalupe",
     "Costo": "¢400",
     "Precio Venta": "¢1000",
@@ -9,28 +9,28 @@
     "Inv. Máximo": "20"
   },
   {
-  "Código de Barras": 000 000 002,
+  "Código": 000 000 002,
     "Descripción": "Medalla de San Benito",
     "Costo": "¢300",
-    "Precio Venta": "¢900",
+    "Precio": "¢900",
     "Existencia": "30",
     "Inv. Mínimo": "10",
     "Inv. Máximo": "50"
   },
   {
-  "Código de Barras": 000 000 003,
+  "Código": 000 000 003,
     "Descripción": "Biblia Latinoamericana",
     "Costo": "¢6000",
-    "Precio Venta": "¢12000",
+    "Precio": "¢12000",
     "Existencia": "5",
     "Inv. Mínimo": "3",
     "Inv. Máximo": "8"
   },  
   {
-    "Código de Barras": 000 000 004,
+    "Código": 000 000 004,
     "Descripción": "Figura 5" de San José",
     "Costo": "¢2000",
-    "Precio Venta": "¢8000",
+    "Precio": "¢8000",
     "Existencia": "1",
     "Inv. Mínimo": "2",
     "Inv. Máximo": "3"
