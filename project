@@ -1,7 +1,7 @@
 [
   {
-    "Código": 000 000 001,
-    "Descripción": "Estampita Virgen de Guadalupe",
+    "Codigo": 000 000 001,
+    "Descripcion": "Estampita Virgen de Guadalupe",
     "Costo": "¢400",
     "Precio Venta": "¢1000",
     "Existencia": "10",
@@ -9,8 +9,8 @@
     "Inv. Máximo": "20"
   },
   {
-  "Código": 000 000 002,
-    "Descripción": "Medalla de San Benito",
+  "Codigo": 000 000 002,
+    "Descripcion": "Medalla de San Benito",
     "Costo": "¢300",
     "Precio": "¢900",
     "Existencia": "30",
@@ -18,8 +18,8 @@
     "Inv. Máximo": "50"
   },
   {
-  "Código": 000 000 003,
-    "Descripción": "Biblia Latinoamericana",
+  "Codigo": 000 000 003,
+    "Descripcion": "Biblia Latinoamericana",
     "Costo": "¢6000",
     "Precio": "¢12000",
     "Existencia": "5",
@@ -27,8 +27,8 @@
     "Inv. Máximo": "8"
   },  
   {
-    "Código": 000 000 004,
-    "Descripción": "Figura 5" de San José",
+    "Codigo": 000 000 004,
+    "Descripcion": "Figura 5" de San José",
     "Costo": "¢2000",
     "Precio": "¢8000",
     "Existencia": "1",
