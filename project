@@ -9,7 +9,7 @@
     "Inv. Máximo": "20"
   },
   {
-  "Codigo": 000 000 002,
+    "Codigo": 000 000 002,
     "Descripcion": "Medalla de San Benito",
     "Costo": "¢300",
     "Precio": "¢900",
@@ -18,13 +18,13 @@
     "Inv. Máximo": "50"
   },
   {
-  "Codigo": 000 000 003,
+    "Codigo": 000 000 003,
     "Descripcion": "Biblia Latinoamericana",
     "Costo": "¢6000",
     "Precio": "¢12000",
     "Existencia": "5",
     "Inv. Mínimo": "3",
-    "Inv. Máximo": "8" 
+    "Inv. Máximo": "8"
   },  
   {
     "Codigo": 000 000 004,
